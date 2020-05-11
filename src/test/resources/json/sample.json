@@ -1,0 +1,23 @@
+{
+	"From": "Delhi",
+	"To": "chennai",
+	"TripType": "oneway",
+	"FromDate": "08-05-2020",
+	"ReturnDate": "09-05-2020",
+	"FlightNo": "FN01",
+	"PassergerName": "C.vimala",
+	"PassergeDOB": "13.01.94",
+	"StreetName": "Thalai street",
+	"CityName": "chennai",
+	"DistrictName": "chennai",
+	"StateName": "TamilNadu",
+	"Country": "India",
+	"PassergerMobileNumber": 9994252366,
+	"PassergerLandLineNumber": "0452-5678652",
+	"PersonalEmail": "vimala@gmail.com",
+	"OfficialEmail": "hcl_vimala@hcl.com",
+	"PassergerCardName": "IOB",
+	"cardHolderName": "vimala",
+	"CardNumber": 12345678912345,
+	"CVVNumber": 7890
+}
